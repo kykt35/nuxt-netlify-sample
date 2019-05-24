@@ -1,5 +1,5 @@
 <template>
-  <h1>test てすと</h1>
+  <h1>test てすと test</h1>
 </template>
 
 
